@@ -1,6 +1,6 @@
 import streamlit as st
-import pandas as pd
 import joblib
+import pandas as pd
 
 # Load the pipeline and categorical columns
 @st.cache_resource
